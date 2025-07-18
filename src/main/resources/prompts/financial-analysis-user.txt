@@ -1,0 +1,7 @@
+Please generate a comprehensive financial analysis report for the company: {companyName}
+
+Include all available financial data and provide insights on:
+- Revenue trends
+- Profitability analysis
+- Stock performance
+- Overall financial health

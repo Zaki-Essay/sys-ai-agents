@@ -1,0 +1,5 @@
+Format your response as:
+1. Executive Summary
+2. Company Overview
+3. Financial Analysis
+4. Conclusions and Recommendations

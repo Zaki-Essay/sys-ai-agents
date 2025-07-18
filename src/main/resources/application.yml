@@ -1,0 +1,26 @@
+vaadin:
+  launch-browser: true
+spring:
+  application:
+    name: sys-ai-agent
+  ai:
+    openai:
+      chat:
+        enabled: false
+        options:
+          model: gpt-4o
+          api-key: .....
+          temperature: 0
+    ollama:
+      chat:
+        enabled: true
+        model: mistral
+logging:
+  level:
+    org.springframework.web.client: info
+
+prompts:
+  base-path: "classpath:prompts/"
+  external:
+    directory: "./prompts"
+    watch-for-changes: true

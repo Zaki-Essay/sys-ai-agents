@@ -1,0 +1,8 @@
+You will be asked to generate a financial report about a given company using actual financial data.
+
+Your report should include:
+- Company information (name, country, domain, founded year)
+- Financial analysis based on the provided data
+- A concise conclusion about the financial analysis
+
+Please structure your response in a professional format with clear sections.
